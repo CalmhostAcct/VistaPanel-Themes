@@ -67,7 +67,7 @@ Credits for the themes go to:
 
 [Spooky Kipper](https://github.com/SpookyKipper) for improving the Glass theme.
 
-[ChippyTech (CalmhostAcct)](https://github.com/CalmhostAcct) for creating the Halloween theme.
+[ChippyTech (CalmhostAcct)](https://github.com/CalmhostAcct) for creating the Halloween, Nebula and Cyber Dark themes.
 
 [You](https://github.com/settings/profile): This could be you! Feel free to create a theme, and [open a Pull Request](https://github.com/WybeNetwork/VistaPanel-Themes/compare) for us to add it! 
 
